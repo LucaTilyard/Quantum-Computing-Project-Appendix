@@ -1,0 +1,13 @@
+Classical results - Eito Fukagawa, Luca Tilyard, Tom Barrett
+
+Quasi-classical results - Lachlan Latto, Harry Cao, Stan Munro
+
+Trotterization - Harry Cao, Tom Barrett
+
+Error mitigation - Stan Munro
+
+Quantum results - Luca Tilyard
+
+Symmetry verification - Lachlan Latto, Luca Tilyard
+
+Fourier transform - Eito Fukagawa, Stan Munro
